@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c7f86e6-6f00-4ceb-be4d-ad1ada047fa3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIZZOnKoogD9d2rtDEKIf3zGIZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bst\WebstormProjects\NodeKurs2" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c7f86e6-6f00-4ceb-be4d-ad1ada047fa3" name="Default Changelist" comment="" />
+      <created>1586425122427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586425122427</updated>
+      <workItem from="1586425124583" duration="1380000" />
+      <workItem from="1586426517120" duration="11751000" />
+      <workItem from="1586601553480" duration="1855000" />
+      <workItem from="1586769461679" duration="2991000" />
+      <workItem from="1586791667440" duration="935000" />
+      <workItem from="1586792968005" duration="1569000" />
+      <workItem from="1586794643534" duration="1704000" />
+      <workItem from="1586847669904" duration="35000" />
+      <workItem from="1586847707826" duration="1010000" />
+      <workItem from="1586852871908" duration="5874000" />
+      <workItem from="1587037525096" duration="19000" />
+      <workItem from="1587037580796" duration="2112000" />
+      <workItem from="1587293057799" duration="12429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="306" key="FileChooserDialogImpl" timestamp="1587037542178">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586794664162" />
+    <state x="740" y="306" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1587037542178" />
+    <state x="987" y="369" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1160/-1920.0.1920.1040@0.0.2560.1400" timestamp="1586860805008" />
+    <state x="136" y="244" key="run.anything.popup" timestamp="1586795742878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586795742878" />
+  </component>
+</project>

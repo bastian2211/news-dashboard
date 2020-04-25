@@ -1,0 +1,26 @@
+{
+  "name": "nodekurs3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.2",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "knex": "^0.21.0",
+    "mysql": "^2.18.1",
+    "newsapi-wrapper": "^1.0.6",
+    "promise-mysql": "^3.3.2"
+  }
+}
